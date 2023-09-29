@@ -1,7 +1,7 @@
 ﻿// ATM Project.
 #include <stdio.h>
 #include <conio.h>
-int main()
+void main()
 {
     float amount, withdrawal, deposit;
     char user,input;
